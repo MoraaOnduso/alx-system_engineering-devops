@@ -1,11 +1,12 @@
 #!/usr/bin/env bash
 This script represents Best School 10 times
 
-i=1
+count=0
 
-until [ $i -gt 10 ]
+until [ $count -eq 10 ]
 do
     echo "Best School"
-    ((i++))
+    (( count++ ))
 done
+
 
