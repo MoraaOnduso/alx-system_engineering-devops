@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-This scripts displays Best School 10 times and hi on the 9th
+#This scripts displays Best School 10 times and hi on the 9th
 
 i=0
 
